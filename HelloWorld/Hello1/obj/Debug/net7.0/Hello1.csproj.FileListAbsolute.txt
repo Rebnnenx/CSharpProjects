@@ -1,0 +1,14 @@
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\bin\Debug\net7.0\Hello1.exe
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\bin\Debug\net7.0\Hello1.deps.json
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\bin\Debug\net7.0\Hello1.runtimeconfig.json
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\bin\Debug\net7.0\Hello1.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\bin\Debug\net7.0\Hello1.pdb
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\obj\Debug\net7.0\Hello1.GeneratedMSBuildEditorConfig.editorconfig
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\obj\Debug\net7.0\Hello1.AssemblyInfoInputs.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\obj\Debug\net7.0\Hello1.AssemblyInfo.cs
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\obj\Debug\net7.0\Hello1.csproj.CoreCompileInputs.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\obj\Debug\net7.0\Hello1.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\obj\Debug\net7.0\refint\Hello1.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\obj\Debug\net7.0\Hello1.pdb
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\obj\Debug\net7.0\Hello1.genruntimeconfig.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\HelloWorld\Hello1\obj\Debug\net7.0\ref\Hello1.dll
