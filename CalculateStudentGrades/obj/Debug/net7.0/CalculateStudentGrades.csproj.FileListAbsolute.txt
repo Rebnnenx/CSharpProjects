@@ -1,0 +1,14 @@
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\bin\Debug\net7.0\CalculateStudentGrades.exe
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\bin\Debug\net7.0\CalculateStudentGrades.deps.json
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\bin\Debug\net7.0\CalculateStudentGrades.runtimeconfig.json
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\bin\Debug\net7.0\CalculateStudentGrades.dll
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\bin\Debug\net7.0\CalculateStudentGrades.pdb
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\obj\Debug\net7.0\CalculateStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\obj\Debug\net7.0\CalculateStudentGrades.AssemblyInfoInputs.cache
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\obj\Debug\net7.0\CalculateStudentGrades.AssemblyInfo.cs
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\obj\Debug\net7.0\CalculateStudentGrades.csproj.CoreCompileInputs.cache
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\obj\Debug\net7.0\CalculateStudentGrades.dll
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\obj\Debug\net7.0\refint\CalculateStudentGrades.dll
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\obj\Debug\net7.0\CalculateStudentGrades.pdb
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\obj\Debug\net7.0\CalculateStudentGrades.genruntimeconfig.cache
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\CalculateStudentGrades\obj\Debug\net7.0\ref\CalculateStudentGrades.dll

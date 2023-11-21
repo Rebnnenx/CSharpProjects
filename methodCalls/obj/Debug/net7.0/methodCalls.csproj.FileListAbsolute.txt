@@ -1,0 +1,14 @@
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\bin\Debug\net7.0\methodCalls.exe
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\bin\Debug\net7.0\methodCalls.deps.json
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\bin\Debug\net7.0\methodCalls.runtimeconfig.json
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\bin\Debug\net7.0\methodCalls.dll
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\bin\Debug\net7.0\methodCalls.pdb
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\obj\Debug\net7.0\methodCalls.GeneratedMSBuildEditorConfig.editorconfig
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\obj\Debug\net7.0\methodCalls.AssemblyInfoInputs.cache
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\obj\Debug\net7.0\methodCalls.AssemblyInfo.cs
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\obj\Debug\net7.0\methodCalls.csproj.CoreCompileInputs.cache
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\obj\Debug\net7.0\methodCalls.dll
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\obj\Debug\net7.0\refint\methodCalls.dll
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\obj\Debug\net7.0\methodCalls.pdb
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\obj\Debug\net7.0\methodCalls.genruntimeconfig.cache
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\methodCalls\obj\Debug\net7.0\ref\methodCalls.dll

@@ -1,0 +1,14 @@
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\bin\Debug\net7.0\calculateFinalGPA.exe
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\bin\Debug\net7.0\calculateFinalGPA.deps.json
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\bin\Debug\net7.0\calculateFinalGPA.runtimeconfig.json
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\bin\Debug\net7.0\calculateFinalGPA.dll
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\bin\Debug\net7.0\calculateFinalGPA.pdb
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\obj\Debug\net7.0\calculateFinalGPA.GeneratedMSBuildEditorConfig.editorconfig
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\obj\Debug\net7.0\calculateFinalGPA.AssemblyInfoInputs.cache
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\obj\Debug\net7.0\calculateFinalGPA.AssemblyInfo.cs
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\obj\Debug\net7.0\calculateFinalGPA.csproj.CoreCompileInputs.cache
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\obj\Debug\net7.0\calculateFinalGPA.dll
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\obj\Debug\net7.0\refint\calculateFinalGPA.dll
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\obj\Debug\net7.0\calculateFinalGPA.pdb
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\obj\Debug\net7.0\calculateFinalGPA.genruntimeconfig.cache
+\\boxofholding\Data\Brennen\GitHub\CSharpProjects\calculateFinalGPA\obj\Debug\net7.0\ref\calculateFinalGPA.dll

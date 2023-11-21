@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello1", "Hello1\Hello1.csproj", "{EA1BE9DB-8484-4E86-BE47-665AB150FF40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateStudentGrades", "..\CalculateStudentGrades\CalculateStudentGrades.csproj", "{C7C95999-F44D-4A55-B522-61C852209A80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{EA1BE9DB-8484-4E86-BE47-665AB150FF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA1BE9DB-8484-4E86-BE47-665AB150FF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA1BE9DB-8484-4E86-BE47-665AB150FF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C95999-F44D-4A55-B522-61C852209A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C95999-F44D-4A55-B522-61C852209A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C95999-F44D-4A55-B522-61C852209A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C95999-F44D-4A55-B522-61C852209A80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

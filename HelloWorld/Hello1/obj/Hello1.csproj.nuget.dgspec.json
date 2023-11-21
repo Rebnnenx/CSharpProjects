@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\BoxOfHolding\\Data\\Brennen\\GitHub\\CSharpProjects\\HelloWorld\\Hello1\\Hello1.csproj": {}
+    "\\\\boxofholding\\Data\\Brennen\\GitHub\\CSharpProjects\\HelloWorld\\Hello1\\Hello1.csproj": {}
   },
   "projects": {
-    "\\\\BoxOfHolding\\Data\\Brennen\\GitHub\\CSharpProjects\\HelloWorld\\Hello1\\Hello1.csproj": {
+    "\\\\boxofholding\\Data\\Brennen\\GitHub\\CSharpProjects\\HelloWorld\\Hello1\\Hello1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\BoxOfHolding\\Data\\Brennen\\GitHub\\CSharpProjects\\HelloWorld\\Hello1\\Hello1.csproj",
+        "projectUniqueName": "\\\\boxofholding\\Data\\Brennen\\GitHub\\CSharpProjects\\HelloWorld\\Hello1\\Hello1.csproj",
         "projectName": "Hello1",
-        "projectPath": "\\\\BoxOfHolding\\Data\\Brennen\\GitHub\\CSharpProjects\\HelloWorld\\Hello1\\Hello1.csproj",
+        "projectPath": "\\\\boxofholding\\Data\\Brennen\\GitHub\\CSharpProjects\\HelloWorld\\Hello1\\Hello1.csproj",
         "packagesPath": "C:\\Users\\Brennen\\.nuget\\packages\\",
-        "outputPath": "\\\\BoxOfHolding\\Data\\Brennen\\GitHub\\CSharpProjects\\HelloWorld\\Hello1\\obj\\",
+        "outputPath": "\\\\boxofholding\\Data\\Brennen\\GitHub\\CSharpProjects\\HelloWorld\\Hello1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brennen\\AppData\\Roaming\\NuGet\\NuGet.Config"
