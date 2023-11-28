@@ -1,0 +1,14 @@
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\bin\Debug\net7.0\Challenge Nested Iteration and select statements.exe
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\bin\Debug\net7.0\Challenge Nested Iteration and select statements.deps.json
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\bin\Debug\net7.0\Challenge Nested Iteration and select statements.runtimeconfig.json
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\bin\Debug\net7.0\Challenge Nested Iteration and select statements.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\bin\Debug\net7.0\Challenge Nested Iteration and select statements.pdb
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\obj\Debug\net7.0\Challenge Nested Iteration and select statements.GeneratedMSBuildEditorConfig.editorconfig
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\obj\Debug\net7.0\Challenge Nested Iteration and select statements.AssemblyInfoInputs.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\obj\Debug\net7.0\Challenge Nested Iteration and select statements.AssemblyInfo.cs
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\obj\Debug\net7.0\Challenge Nested Iteration and select statements.csproj.CoreCompileInputs.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\obj\Debug\net7.0\Challenge Nested Iteration and select statements.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\obj\Debug\net7.0\refint\Challenge Nested Iteration and select statements.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\obj\Debug\net7.0\Challenge Nested Iteration and select statements.pdb
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\obj\Debug\net7.0\Challenge Nested Iteration and select statements.genruntimeconfig.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Challenge Nested Iteration and select statements\obj\Debug\net7.0\ref\Challenge Nested Iteration and select statements.dll

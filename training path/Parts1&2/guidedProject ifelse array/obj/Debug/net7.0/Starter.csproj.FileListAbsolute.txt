@@ -1,0 +1,14 @@
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\bin\Debug\net7.0\Starter.exe
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\bin\Debug\net7.0\Starter.deps.json
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\bin\Debug\net7.0\Starter.runtimeconfig.json
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\bin\Debug\net7.0\Starter.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\bin\Debug\net7.0\Starter.pdb
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\obj\Debug\net7.0\Starter.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\obj\Debug\net7.0\refint\Starter.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\obj\Debug\net7.0\Starter.pdb
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\guidedProject ifelse array\obj\Debug\net7.0\ref\Starter.dll

@@ -1,0 +1,14 @@
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\bin\Debug\net7.0\Arrays and ForEach.exe
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\bin\Debug\net7.0\Arrays and ForEach.deps.json
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\bin\Debug\net7.0\Arrays and ForEach.runtimeconfig.json
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\bin\Debug\net7.0\Arrays and ForEach.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\bin\Debug\net7.0\Arrays and ForEach.pdb
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\obj\Debug\net7.0\Arrays and ForEach.GeneratedMSBuildEditorConfig.editorconfig
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\obj\Debug\net7.0\Arrays and ForEach.AssemblyInfoInputs.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\obj\Debug\net7.0\Arrays and ForEach.AssemblyInfo.cs
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\obj\Debug\net7.0\Arrays and ForEach.csproj.CoreCompileInputs.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\obj\Debug\net7.0\Arrays and ForEach.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\obj\Debug\net7.0\refint\Arrays and ForEach.dll
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\obj\Debug\net7.0\Arrays and ForEach.pdb
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\obj\Debug\net7.0\Arrays and ForEach.genruntimeconfig.cache
+\\BoxOfHolding\Data\Brennen\GitHub\CSharpProjects\Arrays and ForEach\obj\Debug\net7.0\ref\Arrays and ForEach.dll
